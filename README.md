@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Chat bot**
-
-- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
+- 🔭 I’m currently working on **Browser Extension**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
